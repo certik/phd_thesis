@@ -1,0 +1,32 @@
+Physics in Screening Environments
+=================================
+
+In the current study, we investigated atoms in screening environments like
+plasmas.
+
+It is common practice to extract physical data, such as temperature and
+electron densities, from plasma experiments. We present results that address
+inherent computational difficulties that arise when the screening approach is
+extended to include the interaction between the atomic electrons. We show that
+there may be an ambiguity in the interpretation of physical properties, such as
+temperature and charge density, from experimental data due to the opposing
+effects of electron-nucleus screening and electron-electron screening.
+
+The focus of the work, however, is on the resolution of inherent computational
+challenges that appear already at the Hartree-Fock level. Furthermore, as
+examples of post Hartree-Fock calculations, we show second-order Green's
+function results and many body perturbation theory results of second order.
+
+A self-contained derivation of all necessary equations has been included.  The
+accuracy of the implementation of the method is established by comparing
+standard unscreened results for various atoms and molecules against literature
+for Hartree-Fock as well as Green's function and many body perturbation
+theory.
+
+The main results of the thesis are presented in the chapter called Screened
+Results, where the behavior of several atomic systems depending on
+electron-electron and electron-nucleus Debye screening was studied.
+
+Finally, we present and discuss results obtained for screened interactions. We
+also examine thoroughly the computational details of the calculations and
+particular implementations of the method.
